@@ -3,12 +3,25 @@
 <br />
 
 ## 😜 Stack
+### Front
 - HTML, CSS, JS
 - React
 - React Native
 - Next
 - Redux, Redux-Saga
 - Sass, Styled-Component
+
+### Back
+- Node.js
+- Express.js
+- MongoDB
+- Nginx
+
+### AWS
+- AWS EC2
+- AWS S3
+
+### Corperation
 - Git, Github
 
 <br />
