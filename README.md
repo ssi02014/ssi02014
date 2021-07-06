@@ -13,7 +13,7 @@
 ### Front
 - HTML, CSS, JavaScript, TypeScript
 - React.js, React Native, Next.js
-- Redux(Redux-Saga)
+- Redux(Redux-Saga, Redux-Toolkit)
 - Sass, Styled-Component
 
 ### Back
@@ -21,6 +21,9 @@
 
 ### AWS
 - AWS EC2, AWS S3
+
+### Cooperation
+- Github, GitLab, Jira, office teams
 
 <br />
 
