@@ -17,13 +17,14 @@
 - Sass, Styled-Component
 
 ### Back
-- Node.js, Express.js, MongoDB, Nginx
+- Node.js, Express.js, MongoDB
+- Python, Django
 
 ### AWS
 - AWS EC2, AWS S3
 
 ### Cooperation
-- Github, GitLab, Jira, office teams
+- Github, GitLab, Jira
 
 <br />
 
