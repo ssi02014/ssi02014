@@ -18,7 +18,7 @@
 
 ### Back
 - Node.js, Express.js, MongoDB
-- Python, Django
+- Python
 
 ### AWS
 - AWS EC2, AWS S3
