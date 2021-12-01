@@ -19,15 +19,6 @@
 - Redux(Redux-Saga, Redux-Toolkit)
 - Sass, Styled-Component, Emotion
 
-### Back
-- Node.js, Express.js, MongoDB
-
-### Web Server
-- Nginx
-
-### AWS
-- AWS EC2, AWS S3
-
 ### Cooperation
 - Github, GitLab, Jira
 
