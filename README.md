@@ -6,7 +6,8 @@
 📖 어느 누가 봐도 이해가 되는 `클린 코드`를 하려고 노력하고 있습니다. <br />
 <br />
 
-## Blog
+## Portfolio & Blog
+- https://www.notion.so/MJ-a29e3c9afa314b9f8bb338e110fa1dd4
 - https://blog.naver.com/ssi02014
 
 ## 🛠 Stack
@@ -18,6 +19,7 @@
 - React.js, React Native, Next.js
 - Redux(Redux-Saga, Redux-Toolkit)
 - Sass, Styled-Component, Emotion
+- Material UI, Ant-Design, Bootstrap
 
 ### Cooperation
 - Github, GitLab, Jira
