@@ -9,6 +9,9 @@
 - https://www.notion.so/MJ-a29e3c9afa314b9f8bb338e110fa1dd4
 - https://blog.naver.com/ssi02014
 
+## Documents
+- [자바스크립트/타입스크립트 기술면접 리스트](https://www.notion.so/62a9eb27038d45ae8708f887f46ad165)
+
 ## 🛠 Stack
 ### Programming Language
 - JavaScript(ES6), TypeScript, Python
