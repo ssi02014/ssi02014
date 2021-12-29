@@ -11,6 +11,7 @@
 
 ## Documents
 - [자바스크립트/타입스크립트 기술면접 리스트](https://www.notion.so/62a9eb27038d45ae8708f887f46ad165)
+- [리액트 기술면접 리스트](https://www.notion.so/a42647e064864e469b66acacfe69652b)
 
 ## 🛠 Stack
 ### Programming Language
