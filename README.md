@@ -20,7 +20,7 @@
 
 ### Front
 - HTML5, CSS3
-- React.js, React Native, Next.js
+- React.js, Next.js
 - Redux(Redux-Saga, Redux-Toolkit)
 - Sass, Styled-Component, Emotion
 - Material UI, Ant-Design, Bootstrap
