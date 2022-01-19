@@ -13,6 +13,7 @@
 - [자바스크립트/타입스크립트 기술면접 리스트](https://www.notion.so/62a9eb27038d45ae8708f887f46ad165)
 - [리액트 기술면접 리스트](https://www.notion.so/a42647e064864e469b66acacfe69652b)
 - [CS 기술면접 리스트](https://www.notion.so/CS-54c9355e27e94a84800a5a42a5a63b72)
+- [HTML CSS면접 리스트](https://www.notion.so/HTML-CSS-705d557a2767433bacec230298c0aa26)
 
 ## 🛠 Stack
 ### Programming Language
