@@ -5,7 +5,6 @@
 👨‍ 주로 웹 서비스 프론트엔드 개발을 하고 있으며,  최근에는 백엔드 생태계를 이해하고 백엔드 개발자들과 원활한 소통을 위해 백엔드(Node, Express)도 함께 공부를 하고 있습니다.  <br />
 🙆‍ 개발자 덕목으로 `꾸준함`이 중요하다고 생각해서, `꾸준한 깃허브 Commit 관리`와 `기술 블로그`를 운영하고 있습니다. <br />
 🙆‍♂️ 피드백에 긍정적이며, 항상 열린 마음을 갖고 있습니다. 동시에 저도 누군가를 알려주는 것을 좋아하며, 함께 배우고 성장하는 것을 좋아합니다. <br />
-<br />
 
 ## Career
 - 번개장터[Intern] (2022.02 ~ ing)
@@ -16,17 +15,12 @@
 - https://blog.naver.com/ssi02014
 
 ## Documents
-- [자바스크립트/타입스크립트 기술면접 리스트](https://www.notion.so/62a9eb27038d45ae8708f887f46ad165)
-- [리액트 기술면접 리스트](https://www.notion.so/a42647e064864e469b66acacfe69652b)
-- [CS 기술면접 리스트](https://www.notion.so/CS-54c9355e27e94a84800a5a42a5a63b72)
-- [HTML CSS면접 리스트](https://www.notion.so/HTML-CSS-705d557a2767433bacec230298c0aa26)
+- [프론트엔드 기술면접 리스트](https://www.notion.so/2c4d4292c8574027b50150c5ef6e02b5)
 
 ## 🛠 Stack
-### Programming Language
-- JavaScript(ES6), TypeScript, Python
-
 ### Front
 - HTML5, CSS3
+- JavaScript(ES6), TypeScript
 - React.js, Next.js
 - Redux(Redux-Saga, Redux-Toolkit)
 - Sass, Styled-Component, Emotion
@@ -38,6 +32,5 @@
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssi02014)](https://github.com/anuraghazra/github-readme-stats)
-
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ssi02014)](https://solved.ac/ssi02014)
 
