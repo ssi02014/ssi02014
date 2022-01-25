@@ -33,5 +33,5 @@
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssi02014)](https://github.com/anuraghazra/github-readme-stats)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ssi02014)](https://solved.ac/ssi02014)
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ssi02014)](https://solved.ac/ssi02014) -->
 
