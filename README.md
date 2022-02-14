@@ -4,9 +4,10 @@
 👋 안녕하세요. 개발 할 때 몰입하는 즐거움에 빠져 개발을 즐기고 있는 프론트엔드 개발자 전민재 입니다. <br />
 
 ## Career & Team
-- Career 번개장터 (2022.02 ~ ing)
-- Career 파운트 (2021.07 ~ 2021.11)
-- Team 모던 애자일(Modern Agile) (2020.12 ~ ing)
+- Career 번개장터 Vertical Service Lab Front-end Intern (2022.02 ~ ing)
+- Career 파운트 Front-end Developer(2021.07 ~ 2021.11)
+- Team 모던 애자일 (Modern Agile) Front-end Leader (2020.12 ~ 2021.07)
+  - Front-end Mentor (2021.07 ~ )
 
 ## Portfolio & Blog
 - [PORTFOLIO](https://www.notion.so/MJ-a29e3c9afa314b9f8bb338e110fa1dd4)
