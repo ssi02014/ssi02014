@@ -4,10 +4,9 @@
 👋 안녕하세요. 개발 할 때 몰입하는 즐거움에 빠져 개발을 즐기고 있는 프론트엔드 개발자 전민재 입니다. <br />
 
 ## Career & Team
-- Career 번개장터 Vertical Service Lab Front-end Intern (2022.02 ~ ing)
-- Career 파운트 Front-end Developer(2021.07 ~ 2021.11)
-- Team 모던 애자일 (Modern Agile) Front-end Leader (2020.12 ~ 2021.07)
-  - Front-end Mentor (2021.07 ~ )
+- Career 번개장터 <b> Vertical Service Lab Front-end Intern ~ ing </b>
+- Career 파운트 <b> Front-end Developer </b> 
+- Team 모던 애자일 (Modern Agile) <b> Front-end Leader & Mentor </b>
 
 ## Portfolio & Blog
 - [PORTFOLIO](https://www.notion.so/MJ-a29e3c9afa314b9f8bb338e110fa1dd4)
@@ -22,6 +21,7 @@
 - JavaScript(ES6), TypeScript
 - React.js, Next.js
 - Redux(Redux-Saga, Redux-Toolkit)
+- React-Query 
 - Sass, Styled-Component, Emotion
 - Material UI, Ant-Design, Bootstrap
 
