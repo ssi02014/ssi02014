@@ -3,10 +3,12 @@
 ## 👦 Introduce!
 👋 안녕하세요. 개발 할 때 몰입하는 즐거움에 빠져 개발을 즐기고 있는 프론트엔드 개발자 전민재 입니다. <br />
 
-## Career & Team
-- 번개장터 <b> Vertical Service Lab Front-end <i> ~ ing</i></b>
-- 파운트 <b> Front-end Developer </b> 
-- 모던 애자일 (Modern Agile) <b> Front-end Leader & Mentor </b>
+## Career
+- 번개장터 <b> V-Lab Frontend Software Engineer <i>(~ ing)</i></b>
+- 파운트 <b> Frontend Software Engineer </b> 
+
+## Personal Team
+- 모던 애자일 (Modern Agile) <b> Frontend Leader & Mentor </b>
 
 ## Portfolio & Blog
 - [PORTFOLIO](https://www.notion.so/MJ-a29e3c9afa314b9f8bb338e110fa1dd4)
@@ -20,7 +22,7 @@
 - HTML5, CSS3
 - JavaScript(ES6), TypeScript
 - React.js, Next.js
-- Redux(Redux-Saga, Redux-Toolkit)
+- Redux(Redux-thunk, Redux-Saga, Redux-Toolkit)
 - React-Query 
 - Sass, Styled-Component, Emotion
 
