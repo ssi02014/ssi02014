@@ -18,15 +18,11 @@
 
 ## Stack
 ### Front
-- HTML5, CSS3
-- JavaScript(ES6), TypeScript
+- HTML5, CSS3, JavaScript(ES6), TypeScript
 - React.js, Next.js
-- Redux(Redux-thunk, Redux-Saga, Redux-Toolkit)
+- Redux
 - React-Query 
 - Sass, Styled-Component, Emotion
-
-### Cooperation
-- Github, GitLab, Jira, Bitbucket
 
 <br />
 
