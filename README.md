@@ -7,14 +7,10 @@
 - 파운트 <b> Frontend Software Engineer </b> 
 
 ## Personal Team
-- 모던 애자일 (Modern Agile) <b> Frontend Leader & Mentor </b>
+- IDU 개발 동아리 모던 애자일 (Modern Agile) <b> Frontend Leader & Mentor </b>
 
 ## Portfolio & Blog
 - [PORTFOLIO](https://www.notion.so/MJ-a29e3c9afa314b9f8bb338e110fa1dd4)
-- [NAVER BLOG](https://blog.naver.com/ssi02014)
-
-## Documents
-- [프론트엔드 기술면접 리스트](https://www.notion.so/2c4d4292c8574027b50150c5ef6e02b5)
 
 ## Stack
 ### Front
