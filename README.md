@@ -8,6 +8,7 @@
 
 ## Personal Team
 - IDU 개발 동아리 모던 애자일 (Modern Agile) <b> Frontend Leader & Mentor </b>
+- [모던 애자일 공식 사이트](https://modern-agile-official-client.vercel.app/)
 
 ## Portfolio & Blog
 - [PORTFOLIO](https://www.notion.so/MJ-a29e3c9afa314b9f8bb338e110fa1dd4)
