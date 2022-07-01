@@ -17,7 +17,7 @@
 ### Front
 - HTML5, CSS3, JavaScript(ES6), TypeScript
 - React.js, Next.js
-- Redux
+- Redux, Recoil
 - React-Query 
 - Sass, Styled-Component, Emotion
 
