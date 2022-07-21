@@ -1,9 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssi02014&count_bg=%2379C83D&title_bg=%23555555&icon=compropago.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br />
+
 <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%A0%84-b07774216" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-3776AB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<br />
 
 👋 안녕하세요. 개발 할 때 몰입하는 즐거움에 빠져 개발을 즐기고 있는 프론트엔드 개발자 전민재 입니다. <br />
 
