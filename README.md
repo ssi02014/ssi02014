@@ -2,9 +2,14 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%A0%84-b07774216" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-3776AB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%A0%84-b07774216" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%A0%84-b07774216" target="_blank">
+    <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+</div>
 
 <br />
 
