@@ -10,9 +10,6 @@
 - IDU 개발 동아리 모던 애자일 (Modern Agile) <b> Frontend Leader & Mentor </b>
 - [모던 애자일 공식 사이트](https://modern-agile-official-client.vercel.app/)
 
-## Portfolio
-- [PORTFOLIO](https://www.notion.so/MJ-a29e3c9afa314b9f8bb338e110fa1dd4)
-
 ## Document
 - [기술 면접리스트](https://www.notion.so/v1-2-0-2c4d4292c8574027b50150c5ef6e02b5)
 
