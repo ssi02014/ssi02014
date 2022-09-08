@@ -28,11 +28,13 @@
 
 ## Stack
 ### Front
-- HTML5, CSS3, JavaScript(ES6), TypeScript
+- HTML5, CSS3, JavaScript(ES6 이상), TypeScript
 - React.js, Next.js
-- Redux, Recoil
+- Sass(Scss), Styled-Component, Emotion
+- Redux, Recoil, Context
 - React-Query 
-- Sass, Styled-Component, Emotion
+- Jest, React-Testing-Library
+- Storybook
 
 <br />
 
