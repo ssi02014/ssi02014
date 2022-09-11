@@ -23,7 +23,7 @@
 - IDU 개발 동아리 [모던 애자일 (Modern Agile)](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
 
 ## Oper Source Repository Contribute
-- [react-query-tutorial](https://www.notion.so/v1-2-0-2c4d4292c8574027b50150c5ef6e02b5) [⭐️ 190++] 
+- [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial) [⭐️ 190++] 
 - [programmers-coding-test](https://github.com/codeisneverodd/programmers-coding-test) [⭐️ 170++] 
 
 ## Tech Stack
