@@ -38,6 +38,6 @@
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssi02014)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ssi02014)](https://solved.ac/ssi02014) -->
+
 <a href="https://opgc.me/#/users/ssi02014" target="_blank"><img src="https://api.opgc.me/githubs/users/ssi02014/tag/?theme=basic" /></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ssi02014)](https://solved.ac/ssi02014)
