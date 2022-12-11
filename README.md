@@ -23,8 +23,8 @@
 - IDU 개발 동아리 [모던 애자일 (Modern Agile)](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
 
 ## Oper Source Repository Contribute
-- [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial) [⭐️ 260++] 
-- [programmers-coding-test](https://github.com/codeisneverodd/programmers-coding-test) [⭐️ 280++] 
+- [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial) [⭐️ 290++] 
+- [programmers-coding-test](https://github.com/codeisneverodd/programmers-coding-test) [⭐️ 300++] 
 
 ## Tech Stack
 - HTML5, CSS3, JavaScript(ES6 이상), TypeScript
@@ -40,3 +40,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssi02014)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ssi02014)](https://solved.ac/ssi02014) -->
 <a href="https://opgc.me/#/users/ssi02014" target="_blank"><img src="https://api.opgc.me/githubs/users/ssi02014/tag/?theme=basic" /></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ssi02014)](https://solved.ac/ssi02014)
