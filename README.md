@@ -25,7 +25,7 @@
 ## Oper Source Repository Contribute
 - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial) [⭐️ 370++]
 - [Front-Interview](https://github.com/ssi02014/Front-Interview) [⭐️ 100++]
-- [react-thumbnail-generator](https://github.com/ssi02014/react-thumbnail-generator) [⭐️ 5++]
+- [react-thumbnail-generator](https://github.com/ssi02014/react-thumbnail-generator) [⭐️ 10++]
 
 ## Tech Stack
 - HTML5, CSS3, JavaScript(ES6 이상), TypeScript
