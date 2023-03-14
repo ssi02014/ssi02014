@@ -34,7 +34,8 @@
 - Redux, Recoil, Context
 - React-Query 
 - Jest, React-Testing-Library
-- Storybook, MSW
+- Storybook
+- webpack5, rollup
 
 <br />
 
