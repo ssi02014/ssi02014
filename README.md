@@ -32,11 +32,10 @@
 - HTML5, CSS3, JS, TS
 - React.js, Next.js
 - Sass(Scss), Styled-Component, Emotion
-- Redux, Recoil
-- React-Query 
-- Jest, React-Testing-Library
+- Redux, Recoil, jotai
+- React-Query
 - Storybook
-- webpack5, rollup
+- webpack, rollup, vite
 
 <br />
 
