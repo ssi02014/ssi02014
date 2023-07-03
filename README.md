@@ -24,10 +24,9 @@
 - IDU 개발 동아리 [모던 애자일 (Modern Agile)](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
 
 ## Oper Source Repository Contribute
-- [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial) [⭐️ 550++]
-- [@toss/slash](https://github.com/toss/slash) [⭐️ 2000++]
-- [Front-Interview](https://github.com/ssi02014/Front-Interview) [⭐️ 200++]
-- [react-thumbnail-generator](https://github.com/ssi02014/react-thumbnail-generator) [⭐️ 20++]
+- [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial)
+- [@toss/slash](https://github.com/toss/slash)
+- [Front-Interview](https://github.com/ssi02014/Front-Interview)
 
 ## Tech Stack
 - HTML5, CSS3, JS, TS
