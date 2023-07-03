@@ -1,5 +1,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssi02014&count_bg=%2379C83D&title_bg=%23555555&icon=compropago.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br />
 
 <div>
@@ -10,11 +9,6 @@
     <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
 </div>
-
-<br />
-
-👋 안녕하세요. 개발 할 때 몰입하는 즐거움에 빠져 개발을 즐기고 있는 프론트엔드 개발자 전민재 입니다. <br /> 
-현재는 **누적 가입자 수 2000만**, **MAU 650만 이상**의 중고거래 플랫폼 **번개장터**에서 근무중입니다.
 
 ## Career
 - 번개장터 <b> V-Lab Frontend Software Engineer <i>(~ ing)</i></b>
@@ -27,16 +21,6 @@
 - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial)
 - [@toss/slash](https://github.com/toss/slash)
 - [Front-Interview](https://github.com/ssi02014/Front-Interview)
-
-## Tech Stack
-- HTML5, CSS3, JS, TS
-- React.js, Next.js
-- Sass(Scss), Styled-Component, Emotion
-- Redux, Recoil, jotai
-- React-Query
-- Jest, React Testing Library
-- Storybook
-- webpack, rollup, vite
 
 <br />
 
