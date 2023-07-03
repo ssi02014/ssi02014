@@ -25,8 +25,9 @@
 
 ## Oper Source Repository Contribute
 - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial) [⭐️ 550++]
+- [@toss/slash](https://github.com/toss/slash) [⭐️ 2000++]
 - [Front-Interview](https://github.com/ssi02014/Front-Interview) [⭐️ 200++]
-- [react-thumbnail-generator](https://github.com/ssi02014/react-thumbnail-generator) [⭐️ 15++]
+- [react-thumbnail-generator](https://github.com/ssi02014/react-thumbnail-generator) [⭐️ 20++]
 
 ## Tech Stack
 - HTML5, CSS3, JS, TS
@@ -34,6 +35,7 @@
 - Sass(Scss), Styled-Component, Emotion
 - Redux, Recoil, jotai
 - React-Query
+- Jest, React Testing Library
 - Storybook
 - webpack, rollup, vite
 
