@@ -18,11 +18,11 @@
 - IDU 개발 동아리 [모던 애자일 (Modern Agile)](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
 
 ## Open Source Repository Contribute
-- [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial)
-- [@toss/slash](https://github.com/toss/slash)
-- [react-thumbnail-generator](https://github.com/ssi02014/react-thumbnail-generator)
-- [Front-Interview](https://github.com/ssi02014/Front-Interview)
-- [react-korea-developer/article](https://github.com/react-korea-developer/article)
+- [@toss/slash](https://github.com/toss/slash) (⭐️ Star 2100+)
+- [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial) (⭐️Star 500+)
+- [react-korea-developer/article](https://github.com/react-korea-developer/article) (⭐️ Star 200+)
+- [Front-Interview](https://github.com/ssi02014/Front-Interview) (⭐️ Star 200+)
+- [react-thumbnail-generator](https://github.com/ssi02014/react-thumbnail-generator) (⭐️ Star 20+)
 
 <br />
 
