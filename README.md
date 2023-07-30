@@ -17,9 +17,9 @@
 ## Personal Team
 - IDU 개발 동아리 [모던 애자일 (Modern Agile)](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
 
-## Open Source Repository Contribute
+## Open Source Repository contributions
 - [@toss/slash](https://github.com/toss/slash) (⭐️ Star 2100+)
-- [selecto](https://github.com/daybrush/selecto)(⭐️ Star 1700+)
+- [Selecto](https://github.com/daybrush/selecto)(⭐️ Star 1700+)
 - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial) (⭐️Star 500+)
 - [react-korea-developer/article](https://github.com/react-korea-developer/article) (⭐️ Star 200+)
 - [Front-Interview](https://github.com/ssi02014/Front-Interview) (⭐️ Star 200+)
