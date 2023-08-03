@@ -19,17 +19,16 @@
 
 ## Contributions
 - Libraries
-  - [DOMPurify](https://github.com/cure53/DOMPurify) (⭐️ 11000+)
-  - [react-calendar](https://github.com/wojtekmaj/react-calendar) (⭐️ 3100+)
-  - [@toss/slash](https://github.com/toss/slash) (⭐️ 2100+)
-  - [@daybrush/Selecto](https://github.com/daybrush/selecto) (⭐️ 1700+)
-  - [@daaggn/stackflow](https://github.com/daangn/stackflow) (⭐️ 500+)
+  - [DOMPurify](https://github.com/cure53/DOMPurify)
+  - [react-calendar](https://github.com/wojtekmaj/react-calendar)
+  - [@toss/slash](https://github.com/toss/slash)
+  - [@daybrush/Selecto](https://github.com/daybrush/selecto)
+  - [@daaggn/stackflow](https://github.com/daangn/stackflow)
 
 - Documents
-  - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial) (⭐️ 600+)
-  - [react-korea-developer/article](https://github.com/react-korea-developer/article) (⭐️ 200+)
-  - [Front-Interview](https://github.com/ssi02014/Front-Interview) (⭐️ 200+)
-
+  - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial)
+  - [react-korea-developer/article](https://github.com/react-korea-developer/article)
+  - [Front-Interview](https://github.com/ssi02014/Front-Interview)
 <br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssi02014)](https://github.com/anuraghazra/github-readme-stats)
