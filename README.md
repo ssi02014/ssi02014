@@ -19,6 +19,8 @@
 
 ## Contributions
 - Libraries
+  - [DOMPurify](https://github.com/cure53/DOMPurify) (⭐️ 11000+)
+  - [react-calendar](https://github.com/wojtekmaj/react-calendar) (⭐️ 3100+)
   - [@toss/slash](https://github.com/toss/slash) (⭐️ 2100+)
   - [@daybrush/Selecto](https://github.com/daybrush/selecto) (⭐️ 1700+)
   - [@daaggn/stackflow](https://github.com/daangn/stackflow) (⭐️ 500+)
