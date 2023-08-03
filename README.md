@@ -19,11 +19,11 @@
 
 ## Contributions
 - Libraries
-  - [DOMPurify](https://github.com/cure53/DOMPurify)
-  - [react-calendar](https://github.com/wojtekmaj/react-calendar)
   - [@toss/slash](https://github.com/toss/slash)
   - [@daybrush/Selecto](https://github.com/daybrush/selecto)
   - [@daaggn/stackflow](https://github.com/daangn/stackflow)
+  - [DOMPurify](https://github.com/cure53/DOMPurify)
+  - [react-calendar](https://github.com/wojtekmaj/react-calendar) - minor contributions 
 
 - Documents
   - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial)
