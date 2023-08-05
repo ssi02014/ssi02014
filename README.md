@@ -20,9 +20,9 @@
 ## Contributions
 - Libraries
   - [@toss/slash](https://github.com/toss/slash)
+  - [DOMPurify](https://github.com/cure53/DOMPurify)
   - [@daybrush/Selecto](https://github.com/daybrush/selecto)
   - [@daaggn/stackflow](https://github.com/daangn/stackflow)
-  - [DOMPurify](https://github.com/cure53/DOMPurify)
 
 - Documents
   - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial)
