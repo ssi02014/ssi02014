@@ -11,13 +11,14 @@
 </div>
 
 ## Career
-- 번개장터 <b> V-Lab Frontend Software Engineer <i>(~ ing)</i></b>
-- 파운트 <b> Frontend Software Engineer </b> 
+- <b>BGZT</b> - Vertical Service Lab Frontend Software Engineer <i>(~ ing)</i></b>
+- <b>Fount</b> - Frontend Software Engineer 
 
 ## Personal Team
-- IDU 개발 동아리 [모던 애자일 (Modern Agile)](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
+- IDU Development Clubs [Modern Agile](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
 
-## Contributions
+## Contributions to open sources
+- Contributions to open sources that positively impact the development ecosystem.
 - Libraries
   - [@toss/slash](https://github.com/toss/slash)
   - [DOMPurify](https://github.com/cure53/DOMPurify)
