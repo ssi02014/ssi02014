@@ -18,7 +18,6 @@
 - IDU Development Clubs [Modern Agile](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
 
 ## Contributions to open sources
-- Contributions to open sources that positively impact the development ecosystem.
 - Libraries
   - [@toss/slash](https://github.com/toss/slash)
   - [DOMPurify](https://github.com/cure53/DOMPurify)
