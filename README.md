@@ -21,6 +21,7 @@
 - Libraries
   - [@toss/slash](https://github.com/toss/slash)
   - [DOMPurify](https://github.com/cure53/DOMPurify)
+  - [html-react-parser](https://github.com/remarkablemark/html-react-parser)
   - [@daaggn/stackflow](https://github.com/daangn/stackflow)
   - [@daybrush/Selecto](https://github.com/daybrush/selecto)
 
