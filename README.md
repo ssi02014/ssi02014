@@ -19,17 +19,18 @@
 
 ## Contributions to open sources
 - Libraries
-  - [DOMPurify](https://github.com/cure53/DOMPurify)
-  - [html-react-parser](https://github.com/remarkablemark/html-react-parser)
-  - [qrcode.react](https://github.com/zpao/qrcode.react)
-  - [@toss/slash](https://github.com/toss/slash)
-  - [@daaggn/stackflow](https://github.com/daangn/stackflow)
-  - [@daybrush/Selecto](https://github.com/daybrush/selecto)
+  - [DOMPurify](https://github.com/cure53/DOMPurify/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
+  - [html-react-parser](https://github.com/remarkablemark/html-react-parser/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
+  - [qrcode.react](https://github.com/zpao/qrcode.react/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
+  - [@toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
+  - [@daaggn/stackflow](https://github.com/daangn/stackflow/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
+  - [@daybrush/Selecto](https://github.com/daybrush/selecto/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
 
 - Documents
   - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial)
-  - [testing-library-docs](https://github.com/testing-library/testing-library-docs)
+  - [testing-library-docs](https://github.com/testing-library/testing-library-docs/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [Front-Interview](https://github.com/ssi02014/Front-Interview)
+  - [react-korea-developer/article](https://github.com/react-korea-developer/article/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
 
 <br />
 
