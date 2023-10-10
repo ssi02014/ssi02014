@@ -27,8 +27,8 @@
   - [@daybrush/Selecto](https://github.com/daybrush/selecto/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
 
 - Documents
-  - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial)
   - [testing-library-docs](https://github.com/testing-library/testing-library-docs/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
+  - [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial)
   - [Front-Interview](https://github.com/ssi02014/Front-Interview)
   - [react-korea-developer/article](https://github.com/react-korea-developer/article/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
 
