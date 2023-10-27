@@ -22,6 +22,7 @@
   - [DOMPurify](https://github.com/cure53/DOMPurify/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [html-react-parser](https://github.com/remarkablemark/html-react-parser/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [qrcode.react](https://github.com/zpao/qrcode.react/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
+  - [react-hook-form](https://github.com/react-hook-form/react-hook-form/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [@toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [@daaggn/stackflow](https://github.com/daangn/stackflow/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [@daybrush/Selecto](https://github.com/daybrush/selecto/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
