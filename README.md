@@ -24,6 +24,7 @@
   - [qrcode.react](https://github.com/zpao/qrcode.react/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [react-hook-form](https://github.com/react-hook-form/react-hook-form/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [@toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
+  - [@suspensive/react](https://github.com/suspensive/react/pulls?q=ssi02014)
   - [@daaggn/stackflow](https://github.com/daangn/stackflow/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [@daybrush/Selecto](https://github.com/daybrush/selecto/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
 
