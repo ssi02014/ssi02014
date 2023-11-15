@@ -11,8 +11,8 @@
 </div>
 
 ## Career
-- <b>BGZT</b> - Vertical Service Lab Frontend Software Engineer <i>(~ ing)</i></b>
-- <b>Fount</b> - Frontend Software Engineer 
+- <b>[BGZT](https://bgzt.co.kr/)</b> - Vertical Service Lab Frontend Software Engineer <i>(~ ing)</i></b>
+- <b>[Fount](https://fount.co/)</b> - Frontend Software Engineer 
 
 ## Personal Team
 - IDU Development Clubs [Modern Agile](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
