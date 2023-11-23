@@ -19,6 +19,8 @@
 
 ## Contributions to open sources
 - Libraries
+  - [@devgrace (Owner)](https://github.com/Team-Grace/devgrace)
+  - [react-thumbnail-generator (Owner)](https://github.com/ssi02014/react-thumbnail-generator) 
   - [DOMPurify](https://github.com/cure53/DOMPurify/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [html-react-parser](https://github.com/remarkablemark/html-react-parser/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [qrcode.react](https://github.com/zpao/qrcode.react/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
