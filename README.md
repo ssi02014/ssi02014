@@ -26,7 +26,6 @@
   - [@toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [@suspensive/react](https://github.com/suspensive/react/issues?q=involves%3Assi02014+)
   - [@daybrush/Selecto](https://github.com/daybrush/selecto/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
-  - [@daaggn/stackflow](https://github.com/daangn/stackflow/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [@devgrace (Owner)](https://github.com/Team-Grace/devgrace)
 
 - Documents
