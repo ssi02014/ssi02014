@@ -24,6 +24,7 @@
   - [qrcode.react](https://github.com/zpao/qrcode.react/issues?q=involves%3Assi02014+)
   - [react-hook-form](https://github.com/react-hook-form/react-hook-form/issues?q=involves%3Assi02014+)
   - [@toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
+  - [@toss/es-hangul](https://github.com/toss/es-hangul/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [@suspensive/react](https://github.com/suspensive/react/issues?q=involves%3Assi02014+)
   - [jotai](https://github.com/pmndrs/jotai/pulls?q=involves%3Assi02014)
   - [@devgrace (Owner)](https://github.com/Team-Grace/devgrace)
