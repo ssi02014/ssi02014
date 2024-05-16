@@ -16,22 +16,14 @@
 
 ## Personal Team
 - IDU Development Clubs [Modern Agile](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
+- 클라이언트 관련 유용한 모듈을 제공하는 [@modern-kit](https://github.com/modern-agile-team/modern-kit)의 **Maintainer**로 활동하고 있습니다.
 
 ## Contributions to open sources
 - Libraries
-  - [DOMPurify](https://github.com/cure53/DOMPurify/issues?q=involves%3Assi02014+)
-  - [html-react-parser](https://github.com/remarkablemark/html-react-parser/issues?q=involves%3Assi02014+)
-  - [qrcode.react](https://github.com/zpao/qrcode.react/issues?q=involves%3Assi02014+)
-  - [react-hook-form](https://github.com/react-hook-form/react-hook-form/issues?q=involves%3Assi02014+)
-  - [@toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
-  - [@toss/es-hangul](https://github.com/toss/es-hangul/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
-  - [@suspensive/react](https://github.com/suspensive/react/issues?q=involves%3Assi02014+)
-  - [@devgrace (Owner)](https://github.com/Team-Grace/devgrace)
+  - [DOMPurify](https://github.com/cure53/DOMPurify/issues?q=involves%3Assi02014+), [html-react-parser](https://github.com/remarkablemark/html-react-parser/issues?q=involves%3Assi02014+), [qrcode.react](https://github.com/zpao/qrcode.react/issues?q=involves%3Assi02014+), [react-hook-form](https://github.com/react-hook-form/react-hook-form/issues?q=involves%3Assi02014+), [@toss/slash](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+), [@toss/es-hangul](https://github.com/toss/es-hangul/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+), [@suspensive/react](https://github.com/suspensive/react/issues?q=involves%3Assi02014+)
 
 - Documents
-  - [testing-library-docs](https://github.com/testing-library/testing-library-docs/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
-  - [react-query-tutorial (Owner)](https://github.com/ssi02014/react-query-tutorial)
-  - [Front-Interview (Owner)](https://github.com/ssi02014/Front-Interview)
+  - [testing-library-docs](https://github.com/testing-library/testing-library-docs/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+), [react-query-tutorial (Owner)](https://github.com/ssi02014/react-query-tutorial)
 
 <br />
 
