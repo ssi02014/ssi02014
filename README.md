@@ -15,8 +15,8 @@
 - <b>[Fount](https://fount.co/)</b> - Frontend Software Engineer 
 
 ## Personal Team
-- IDU Development Clubs [Modern Agile](https://modern-agile-official-client.vercel.app/) <b> Frontend Leader & Mentor </b>
-- 클라이언트 개발과 관련된 유용한 모듈들을 제공하는 [@modern-kit](https://github.com/modern-agile-team/modern-kit)의 **Maintainer**로 활동하고 있습니다.
+- IDU 개발 동아리 [Modern Agile](https://modern-agile-official-client.vercel.app/) 에서 **Frontend Leader & Mentor**로 활동하고 있습니다.
+- 클라이언트 개발과 관련된 유용한 모듈들을 제공하는 [@modern-kit](https://github.com/modern-agile-team/modern-kit) 의 **Maintainer**로 활동하고 있습니다.
 
 ## Contributions to open sources
 - Libraries
