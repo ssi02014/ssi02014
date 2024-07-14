@@ -2,7 +2,7 @@
 <br />
 
 <div>
-  <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EC%A0%84-b07774216" target="_blank">
+  <a href="https://www.linkedin.com/in/minjae-jeon-b07774216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-3776AB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://blog.naver.com/ssi02014" target="_blank">
