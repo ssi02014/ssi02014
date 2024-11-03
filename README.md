@@ -8,6 +8,9 @@
   <a href="https://blog.naver.com/ssi02014" target="_blank">
     <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
+  <a href="https://water-orangutan-97f.notion.site/MJ-a29e3c9afa314b9f8bb338e110fa1dd4" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 </div>
 
 ## Career
