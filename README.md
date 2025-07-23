@@ -29,12 +29,12 @@
   - [es-hangul](https://github.com/toss/es-hangul/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
   - [@suspensive](https://github.com/toss/suspensive/issues?q=involves%3Assi02014+)
   - [slash](https://github.com/toss/slash/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
-  - [modern-kit](https://github.com/modern-agile-team/modern-kit)
-  - [react-thumbnail-generator](https://github.com/ssi02014/react-thumbnail-generator)
+  - [modern-kit(Owner)](https://github.com/modern-agile-team/modern-kit)
+  - [react-thumbnail-generator(Owner)](https://github.com/ssi02014/react-thumbnail-generator)
 
 - Documents
   - [testing-library-docs](https://github.com/testing-library/testing-library-docs/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
-  - [react-query-tutorial (Owner)](https://github.com/ssi02014/react-query-tutorial)
+  - [react-query-tutorial(Owner)](https://github.com/ssi02014/react-query-tutorial)
 
 <br />
 
