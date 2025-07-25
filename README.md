@@ -18,7 +18,7 @@
 
 ## Maintainer
 - 클라이언트 개발과 관련된 유용한 모듈들을 제공하는 [@modern-kit](https://github.com/modern-agile-team/modern-kit)를 관리하고 있습니다. 🚀
-- 리액트에서 썸네일을 손쉽게 생성할 수 있는 [react-thumbnail-generator](https://github.com/ssi02014/react-thumbnail-generator) 의 **v4**를 준비하고 있습니다. 🚀
+- 리액트에서 썸네일을 손쉽게 생성할 수 있는 [react-thumbnail-generator](https://github.com/ssi02014/react-thumbnail-generator) 를 관리하고 있습니다. 🚀
 - tanstack/query(react-query)를 처음 배우시는 분들을 위해 [react-query-tutorial](https://github.com/ssi02014/react-query-tutorial) 문서 저장소를 관리하고 있습니다. 📄
 
 ## Contributions to open sources
