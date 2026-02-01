@@ -37,7 +37,3 @@
 
 - Documents
   - [testing-library-docs](https://github.com/testing-library/testing-library-docs/pulls?q=is%3Apr+is%3Amerged+author%3Assi02014+)
-
-<br />
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssi02014)](https://github.com/anuraghazra/github-readme-stats)
